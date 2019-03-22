@@ -1,0 +1,14 @@
+public class elseif {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+int v=20;
+if(v==10)
+	System.out.println(v);
+else
+	System.out.println("failed");
+	
+	}
+
+}
+
